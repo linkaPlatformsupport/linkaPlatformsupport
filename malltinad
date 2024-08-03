@@ -5,7 +5,8 @@
     "condition": "نو",
     "price": "10,000 تومان",
     "history": "لحظاتی پیش",
-    "instantaneous": "فوری"
+    "instantaneous": "فوری",
+    "link": "https://malltinkala.ir"
   },
   {
     "image": "https://s100.divarcdn.com/static/photo/neda/post/6ddkEMTpCKgC7sH53nCVIQ/99bf6c8a-b72f-498f-ad86-507684a02714.jpg",
@@ -13,6 +14,7 @@
     "condition": "نو",
     "price": "11,100,000 تومان",
     "history": "یک ساعت پیش",
-    "instantaneous": "فوری"
+    "instantaneous": "فوری",
+    "link": "https://malltin-express.it"
   }
 ]
